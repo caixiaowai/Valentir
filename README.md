@@ -1,11 +1,11 @@
 # Valentir
-All public Chinese(zh_CN.yml) and plugin configurations of Valentir are stored here.
+All of the published localized plugin configurations of Valentir go here.
 
 # Foreword
-- We advocate the basic concept of selfless sharing and also pay attention to protecting the copyright in the server.
-- Our idea is to build a harmonious and friendly home for all patient and social players.
-- The players in the server are friendly and harmonious, and they will provide a support plan for each newcomer to quickly get through the adaptation period.
-- In a word, I hope our voices will be heard by more people, so that more people can understand and join our big family. Thank you.
+- We advocate selfless and sharing while also protecting the our copyright to the server.
+- Our intention is to build a harmonious and friendly community for all.
+- Our community friendly and harmonious, and we have a support plan for newbies to get started with ease.
+- We hope our voices will be spread wider, so more people would join us.
 
 # The resources we have already uploaded:
-- 
+- WIP
